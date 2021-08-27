@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net5.0/EmployeeManagementSystem.deps.json
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net5.0/EmployeeManagementSystem.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net5.0/EmployeeManagementSystem.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net5.0/EmployeeManagementSystem.dll
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net5.0/ref/EmployeeManagementSystem.dll
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net5.0/EmployeeManagementSystem.pdb
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net5.0/EmployeeManagementSystem.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net5.0/EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net5.0/EmployeeManagementSystem.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net5.0/EmployeeManagementSystem.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net5.0/EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net5.0/EmployeeManagementSystem.dll
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net5.0/ref/EmployeeManagementSystem.dll
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net5.0/EmployeeManagementSystem.pdb
+/Users/nguyenminhtri/RiderProjects/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net5.0/EmployeeManagementSystem.genruntimeconfig.cache
